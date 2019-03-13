@@ -15,8 +15,7 @@ public class SecretFormula
      */
     public SecretFormula()
     {
-        // initialise instance variables
-        x = 0;
+        
     }
 
     /**
@@ -27,7 +26,6 @@ public class SecretFormula
      */
     public int sampleMethod(int y)
     {
-        // put your code here
-        return x + y;
+        return 1;
     }
 }
